@@ -1,12 +1,12 @@
 {	
 	"author": "Aziz Amerul Faozi",
-	"name": "SensorDong",
+	"name": "nutnud",
 	"version": "0.1.0",
 	"description": "a simple node.js module",
 	"main":"censortext",
 	"repository":{
 		"type": "git",
-		"url":"https://gitlab.com/azizfaozi/SensorDong.git"
+		"url":"https://github.com/faoziaziz/nutnud"
 	},
 	"keywords":[
 		"coba",
