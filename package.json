@@ -1,0 +1,21 @@
+{	
+	"author": "Aziz Amerul Faozi",
+	"name": "SensorDong",
+	"version": "0.1.0",
+	"description": "a simple node.js module",
+	"main":"censortext",
+	"repository":{
+		"type": "git",
+		"url":"https://gitlab.com/azizfaozi/SensorDong.git"
+	},
+	"keywords":[
+		"coba",
+		"kata"
+	],
+	"dependencies": {
+		"express": "latest"
+	},
+	"engine":{
+		"node":"*"
+	}
+}
