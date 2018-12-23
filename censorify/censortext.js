@@ -1,6 +1,7 @@
 var censoredWords=["sad", "bad", "mad"];
 
 var customCensoredWords=[];
+
 function censor(inStr){
 	for (idx in censoredWords)
 	{
