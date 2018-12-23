@@ -1,21 +1,21 @@
-{	
+{
 	"author": "Aziz Amerul Faozi",
 	"name": "nutnud",
-	"version": "0.1.1",
+	"version": "0.1.6",
 	"description": "a simple node.js module",
-	"main":"censortext",
-	"repository":{
+	"main": "censortext",
+	"repository": {
 		"type": "git",
-		"url":"https://github.com/faoziaziz/nutnud"
+		"url": "https://github.com/faoziaziz/nutnud"
 	},
-	"keywords":[
+	"keywords": [
 		"coba",
 		"kata"
 	],
 	"dependencies": {
 		"express": "latest"
 	},
-	"engine":{
-		"node":"*"
+	"engine": {
+		"node": "*"
 	}
 }
