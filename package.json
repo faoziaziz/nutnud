@@ -1,9 +1,10 @@
 {
 	"author": "Aziz Amerul Faozi",
 	"name": "nutnud",
-	"version": "0.1.9",
+	"version": "0.1.18",
 	"description": "a simple node.js module",
 	"main": "app.js",
+	"license":"MIT",
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/faoziaziz/nutnud"
@@ -14,6 +15,9 @@
 	],
 	"dependencies": {
 		"express": "latest"
+	},
+	"bin": {
+		"nutnud":"app.js"
 	},
 	"engine": {
 		"node": "*"
