@@ -4,7 +4,7 @@
 	"version": "0.1.18",
 	"description": "a simple node.js module",
 	"main": "app.js",
-	"license":"MIT",
+	"license": "MIT",
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/faoziaziz/nutnud"
@@ -14,10 +14,11 @@
 		"kata"
 	],
 	"dependencies": {
-		"express": "latest"
+		"express": "latest",
+		"mathjs": "^5.4.0"
 	},
 	"bin": {
-		"nutnud":"app.js"
+		"nutnud": "app.js"
 	},
 	"engine": {
 		"node": "*"
